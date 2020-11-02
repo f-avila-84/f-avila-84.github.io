@@ -1,8 +1,13 @@
-## Bem vindo ao meu portfólio
+## Bem vindo(a)!
 
-You can use the [editor on GitHub](https://github.com/f-avila-84/f-avila-84.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Meu nome é Felipe Avila, sou administrador por formação e analista de dados por paixão.
+O intuito deste site é mostrar um pouco dos meus projetos pessoais e alguns notebooks com anotações e exemplos de códigos como notas de lembretes que utilizei durante meu aprendizado.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Atualmente estou estruturando o formato dos projetos para serem publicados aqui, mas em breve teremos conteúdos disponíveis.
+
+<You can use the [editor on GitHub](https://github.com/f-avila-84/f-avila-84.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.>
 
 ### Markdown
 
